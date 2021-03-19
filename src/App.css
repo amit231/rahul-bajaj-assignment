@@ -1,8 +1,5 @@
-.appback {
-  width: 96vw;
-  height: 96vh;
-  background-color: hsl(240, 78%, 12%);
-}
-.our {
-  width: 100%;
+.rooot {
+  width: 100000px;
+  height: 100000px;
+  background-color: rgb(255, 145, 0);
 }
